@@ -6,6 +6,8 @@ A production-ready, AI-powered recommendation engine built with FastAPI, Next.js
 
 ## Architecture Overview
 
+![System Architecture](architecture.png)
+
 ### Backend Stack
 - **Framework**: FastAPI (Python 3.11+)
 - **Database**: PostgreSQL with pgvector extension (Neon)
